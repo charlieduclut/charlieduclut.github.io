@@ -1,0 +1,16 @@
+{% include base_path %}
+
+{% if forloop.first %}
+<h2>{{ post.type }}s</h2>
+{% endif %}
+
+<li>
+  "{{ post.title }}'',<br/>
+  <i> {{ post.venue }}</i>, {{ post.location }},<br/>
+  <!-- Whitespace added for readability -->
+  {% assign d = post.date | date: "%-d" %}
+  {{ post.date | date: "%B" }}
+  {% case d %}
+  {% when '1' or '21' or '31' %}{{ d }}st{% when '2' or '22' %}{{ d }}nd{% when '3' or '23' %}{{ d }}rd{% else %}{{ d }}th{% endcase %},
+  {{ post.date | date: "%Y" }}.
+</li>

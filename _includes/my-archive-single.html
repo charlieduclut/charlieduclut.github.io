@@ -1,0 +1,29 @@
+{% include base_path %}
+
+{% if post.venue == 'preprint' %}
+  {% if forloop.first %}
+  <h2>Preprints</h2>
+  {% endif %}
+{% else %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+  <h2>{{ currentdate }}</h2>
+  {% assign date = currentdate %}
+  {% endif %}
+{% endif %}
+
+
+
+<li>
+  <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>,<br/>
+  {{ post.authors }},<br/>
+  {% if post.venue != 'preprint' %}
+    <a href="{{ post.paperurl }}">
+    <i> {{ post.venue }}</i>
+    <b> {{ post.volume }}</b>,
+    {{ post.page }}
+    ({{ post.date | date: "%Y"}}) <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i></a><br/>
+  {% endif %}
+  <a href="https://arxiv.org/abs/{{ post.arxivid }}">arXiv:{{ post.arxivid }} <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i></a>
+  <a href="http://charlieduclut.github.io/files/{{ post.urlslug }}.pdf">[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i></a>
+</li>
