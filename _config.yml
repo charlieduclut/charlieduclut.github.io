@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Charlie Duclut"
   avatar           : "profile.jpg" #"profile.png"
-  bio              : "Postdoc" #"Postdoc at the Max Planck Institute for the Physics of Complex Systems"
-  location         : "Laboratoire Matière et Systèmes Complexes, Paris, France" #"Dresden, Germany"
+  bio              : "Postdoc in laboratory Matière et Systèmes Complexes" #"Postdoc at the Max Planck Institute for the Physics of Complex Systems"
+  location         : "Paris, France" #"Dresden, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=vSDxzLMAAAAJ&hl=fr&oi=ao"
