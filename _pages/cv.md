@@ -24,9 +24,13 @@ Work experience
   * [Laboratoire de Physique Statistique (LPS)](http://www.lps.ens.fr/), Paris, France.
   * Supervisor: [Vincent Hakim](http://www.lps.ens.fr/~hakim/)
 
-* Since Nov. 2017: Postdoc
+* Nov. 2017 - Nov. 2021: Postdoc
   * [Max Planck Institute for the Physics of Complex Systems (MPI-PKS)](https://www.pks.mpg.de/), Dresden, Germany.
   * Supervisor: [Frank Jülicher](https://www.pks.mpg.de/biological-physics/frank-juelicher/)
+
+* Since Dec. 2021: Postdoc
+  * [Matière et Systèmes Complexes (MSC)](http://www.msc.univ-paris-diderot.fr/), Paris, France.
+  * Supervisor: [Julien Tailleur](http://www.msc.univ-paris-diderot.fr/~jtailleu/index.html)
 
 
 Teaching experience

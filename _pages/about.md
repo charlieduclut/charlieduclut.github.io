@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the biophysics division of the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/) in Dresden, Germany.
+I am a postdoc in the laboratory [Matière et Systèmes Complexes](http://www.msc.univ-paris-diderot.fr/) in Paris, France.
 
 I use theoretical approaches and tools from **statistical physics** and **soft matter physics** to understand the **collective behaviour of cells** and the **dynamic properties of tissues**.
