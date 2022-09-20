@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charlie Duclut"
 title_separator          : "-"
 name                     : &name "Charlie Duclut"
-description              : &description "Postdoc in the laboratory Matière et Systèmes Complexes"
+description              : &description "Lecturer in Institut Curie and Sorbonne Université"
 url                      : https://charlieduclut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charlieduclut/charlieduclut.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Charlie Duclut"
   avatar           : "profile.jpg" #"profile.png"
-  bio              : "Postdoc in laboratory Matière et Systèmes Complexes" #"Postdoc at the Max Planck Institute for the Physics of Complex Systems"
+  bio              : "Lecturer in Institut Curie and Sorbonne Universités" #"Postdoc at the Max Planck Institute for the Physics of Complex Systems"
   location         : "Paris, France" #"Dresden, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=vSDxzLMAAAAJ&hl=fr&oi=ao"
-  email            : "charlie.duclut@u-paris.fr" #"duclut@pks.mpg.de"
+  email            : "charlie.duclut@curie.fr" #"duclut@pks.mpg.de"
   researchgate     : "https://www.researchgate.net/profile/Charlie-Duclut"
   uri              :
   bitbucket        :
