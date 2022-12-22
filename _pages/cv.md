@@ -59,7 +59,6 @@ Publications
 </ul>
 
 
-
 Oral presentations
 ======
 <ul>
