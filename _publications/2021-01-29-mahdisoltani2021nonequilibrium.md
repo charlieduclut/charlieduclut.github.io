@@ -7,6 +7,7 @@ excerpt: 'A generically observed mechanism that drives the self-organization of 
 date: 2021-01-29
 authors: 'S. Mahdisoltani, R. Ben Alì Zinati, C. Duclut, A. Gambassi, and R. Golestanian'
 venue: 'Phys. Rev. Research'
+preprintvenue: 'arXiv'
 volume: '3'
 page: '13100'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevResearch.3.013100'

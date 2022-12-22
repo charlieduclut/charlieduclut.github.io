@@ -7,6 +7,7 @@ excerpt: 'The majority of dynamical studies in power systems focus on the high-v
 date: 2013-06-04
 authors: 'C. Duclut, S. Backhaus, and M. Chertkov'
 venue: 'Phys. Rev. E'
+preprintvenue: 'arXiv'
 volume: '87'
 page: '62802'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevE.87.062802'

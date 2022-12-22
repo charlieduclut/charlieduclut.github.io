@@ -7,6 +7,7 @@ excerpt: 'The interplay between cellular growth and cell-cell signaling is essen
 date: 2022-01-06
 authors: 'R. Ben Alì Zinati, C. Duclut, S. Mahdisoltani, A. Gambassi, and R. Golestanian'
 venue: 'EPL'
+preprintvenue: 'arXiv'
 volume: '136'
 page: '50003'
 paperurl: 'https://iopscience.iop.org/article/10.1209/0295-5075/ac48c9'

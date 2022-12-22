@@ -7,6 +7,7 @@ excerpt: 'For reaction-diffusion processes with at most bimolecular reactants, w
 date: 2016-09-02
 authors: 'F. Benitez, C. Duclut, H. Chaté, B. Delamotte, I. Dornic, and M. A. Muñoz'
 venue: 'Phys. Rev. Lett.'
+preprintvenue: 'arXiv'
 volume: '117'
 page: '100601'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevLett.117.100601'

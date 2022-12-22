@@ -7,6 +7,7 @@ excerpt: 'The anisotropic model for landscapes erosion proposed by Pastor-Satorr
 date: 2017-07-27
 authors: 'C. Duclut, and B. Delamotte'
 venue: 'Phys. Rev. E'
+preprintvenue: 'arXiv'
 volume: '96'
 page: '12149'
 paperurl: 'http://link.aps.org/doi/10.1103/PhysRevE.96.012149'

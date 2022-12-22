@@ -7,6 +7,7 @@ excerpt: 'We derive the necessary conditions for implementing a regulator that d
 date: 2017-01-05
 authors: 'C. Duclut, and B. Delamotte'
 venue: 'Phys. Rev. E'
+preprintvenue: 'arXiv'
 volume: '95'
 page: '12107'
 paperurl: 'http://link.aps.org/doi/10.1103/PhysRevE.95.012107'

@@ -7,6 +7,7 @@ excerpt: 'Morphogenesis depends crucially on the complex rheological properties 
 date: 2021-09-27
 authors: 'C. Duclut, J. Paijmans, M. M. Inamdar, C. D. Modes, and F. Jülicher'
 venue: 'Cells &amp; Development'
+preprintvenue: 'arXiv'
 volume: '168'
 page: '203746'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S2667290121000802'

@@ -7,6 +7,7 @@ excerpt: 'We use a theoretical approach to examine the effect of a radial fluid 
 date: 2021-05-11
 authors: 'C. Duclut, J. Prost, and F. Jülicher'
 venue: 'Proc. Natl. Acad. Sci. U.S.A.'
+preprintvenue: 'arXiv'
 volume: '118'
 page: 'e2021972118'
 paperurl: 'http://www.pnas.org/lookup/doi/10.1073/pnas.2021972118'

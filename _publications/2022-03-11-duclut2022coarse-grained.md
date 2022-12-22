@@ -7,6 +7,7 @@ excerpt: 'Using concepts from integral geometry, we propose a definition for a l
 date: 2022-03-11
 authors: 'C. Duclut, A. Amiri, J. Paijmans, and F. Jülicher'
 venue: 'SciPost Phys. Core'
+preprintvenue: 'arXiv'
 volume: '5'
 page: '11'
 paperurl: 'https://scipost.org/10.21468/SciPostPhysCore.5.1.011'

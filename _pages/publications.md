@@ -13,7 +13,7 @@ author_profile: true
 
 
 <ol reversed>
-  {% assign publis = site.publications | where:'venue', 'preprint' or 'bioRxiv preprint' %}
+  {% assign publis = site.publications | where:'venue', 'preprint'  %}
   {% for post in publis reversed %}
     {% include my-archive-single.html %}
   {% endfor %}
