@@ -63,6 +63,13 @@ Publications
 Oral presentations
 ======
 <ul>
+    {% assign talks = site.talks | where:'type', 'Invited talk' %}
+    {% for post in talks reversed %}
+      {% include my-archive-single-talk.html %}
+    {% endfor %}
+</ul>
+
+<ul>
     {% assign talks = site.talks | where:'type', 'Contributed talk' %}
     {% for post in talks reversed %}
       {% include my-archive-single-talk.html %}
