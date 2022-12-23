@@ -12,6 +12,13 @@ author_profile: true
 {% endif %}
 
 <ol reversed>
+  {% assign talks = site.talks | where:'type', 'Invited talk' %}
+  {% for post in talks reversed %}
+    {% include my-archive-single-talk.html %}
+  {% endfor %}
+</ol>
+
+<ol reversed>
   {% assign talks = site.talks | where:'type', 'Contributed talk' %}
   {% for post in talks reversed %}
     {% include my-archive-single-talk.html %}

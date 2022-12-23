@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer at [Sorbonne Université](https://www.sorbonne-universite.fr/en), and conduct my research in the [Physico-Chimie Curie laboratory](https://institut-curie.org/unit/umr168).
+I am an associate professor at [Sorbonne Université](https://www.sorbonne-universite.fr/en), and conduct my research in the [Physico-Chimie Curie laboratory](https://institut-curie.org/unit/umr168).
 
 As a physicist, I use theoretical approaches and tools from **statistical physics**, **non-equilibrium thermodynamics** and **soft matter** to understand the collective behavior of cells and the dynamic properties of tissues.
 

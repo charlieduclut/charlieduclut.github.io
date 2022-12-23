@@ -14,7 +14,7 @@ Education
 * Bachelor and Master degrees at the [École Normale Supérieure (ENS)](https://www.ens.psl.eu/), Paris, France. Master program [Macroscopic Physics and Complexity](https://www.phys.ens.fr/spip.php?rubrique284&lang=en).
 * Ph.D. in theoretical physics supervised by [Bertrand Delamotte](https://www.lptmc.jussieu.fr/users/delamotte), Laboratoire de Physique Théorique de la Matière Condensée (LPTMC), [Université Paris VI (UPMC)](https://www.sorbonne-universite.fr/), Paris, France.
 
-Work experience
+Research experience
 ======
 * Feb. - Jul. 2012: Research internship
   * [Los Alamos National Laboratory (LANL)](https://www.lanl.gov/), New Mexico, USA.
@@ -28,10 +28,12 @@ Work experience
   * [Max Planck Institute for the Physics of Complex Systems (MPI-PKS)](https://www.pks.mpg.de/), Dresden, Germany.
   * Supervisor: [Frank Jülicher](https://www.pks.mpg.de/biological-physics/frank-juelicher/)
 
-* Since Dec. 2021: Postdoc
+* Dec. 2021 - Aug. 2022: Postdoc
   * [Matière et Systèmes Complexes (MSC)](http://www.msc.univ-paris-diderot.fr/), Paris, France.
   * Supervisor: [Julien Tailleur](http://www.msc.univ-paris-diderot.fr/~jtailleu/index.html)
-
+  
+* Since Sep. 2022: Associate professor
+  *  [Sorbonne Université](https://www.sorbonne-universite.fr/en) and [Physico-Chimie Curie laboratory](https://institut-curie.org/unit/umr168), Paris, France.
 
 Teaching experience
 ======
@@ -42,6 +44,9 @@ Teaching experience
 * Winter semester 2019: Teaching assistant
   * [Technische Universität Dresden (TU-Dresden)](https://tu-dresden.de/?set_language=en), Dresden, Germany.
   * Tutorials for the course [Stochastic Modelling and Simulation](https://sbalzarini-lab.org/?q=education/courses/stochastics) (master students).  
+  
+* Since Sep. 2022: Associate professor
+  * [Sorbonne Université](https://www.sorbonne-universite.fr/en) and [Physico-Chimie Curie laboratory](https://institut-curie.org/unit/umr168), Paris, France.
 
 {% comment %}
 {% for post in site.teaching %}
