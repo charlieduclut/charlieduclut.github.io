@@ -2,9 +2,9 @@
 title: "Advanced Statistical Mechanics"
 collection: teaching
 type: "Tutorials"
-permalink: /teaching/ICFP_nonequilibrium_statmech
+permalink: /teaching/teaching-1
 venue: "ICFP master"
-date: 2022-09-01
+date: 2023-09-01
 location: "Paris, France"
 ---
 

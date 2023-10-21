@@ -4,13 +4,15 @@ excerpt: "Emergent properties of biological systems can be understood using tool
 collection: research
 ---
 
+#  Chemotaxis and proliferation
+
 <img src='/images/research_chemo.jpg'>
 
 Understanding the self-organization of living systems is one of the biggest conceptual challenges of the present century. A generic mechanism that drives such organization is interaction among the individual elements — which may represent cells, bacteria, or even enzymes — via chemical signals. The ability of an individual cell to follow a gradient of chemicals is called chemotaxis.
 
 The interplay between cellular growth and cell-cell signaling is essential for the aggregation and proliferation of bacterial colonies, as well as for the self-organization of cell tissues.
 
----
+===
 
 For this project, I am looking for motivated students!
 
@@ -22,4 +24,8 @@ assemblies of chemotactic cells that produce their own chemical field, leading t
 
 Contact me if you are interested!
 
----
+===
+
+#  Active matter
+
+#  Nonperturbative renormalization group
