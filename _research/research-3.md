@@ -4,7 +4,7 @@ excerpt: "Emergent properties of biological systems can be understood using tool
 collection: research
 ---
 
-#  Chemotaxis and proliferation
+##  Chemotaxis and proliferation
 
 <img src='/images/research_chemo.jpg'>
 
@@ -12,20 +12,14 @@ Understanding the self-organization of living systems is one of the biggest conc
 
 The interplay between cellular growth and cell-cell signaling is essential for the aggregation and proliferation of bacterial colonies, as well as for the self-organization of cell tissues.
 
-===
+> For this project, **I am looking for motivated students!**
+>
+> The goal is to consider microscopic and coarse-grained models for assemblies of chemotactic cells that produce their own chemical field, leading to effective long-range interactions between them. To characterize the nonlinear pattern formation stemming from the interplay between cell proliferation and cell-cell chemotactic signaling, several approaches could be considered:
+> - a numerical approach, based on simulations of the microscopic equations of motions or on solving the coarse-grained partial differential equations,
+> - a field-theoretical approach, that will allow characterizing the critical points and scaling properties of such colonies.
+>
+> Contact me if you are interested!#
 
-For this project, I am looking for motivated students!
+##  Active matter
 
-The goal is to consider microscopic and coarse-grained models for
-assemblies of chemotactic cells that produce their own chemical field, leading to effective long-range interactions between them. To characterize the nonlinear pattern formation stemming from the interplay between cell proliferation and cell-cell chemotactic signaling, several approaches could be considered:
-- a numerical approach, based on simulations of the microscopic equations of motions or on solving the coarse-grained partial differential equations,
-- a field-theoretical approach, that will allow characterizing the critical points and scaling properties of such colonies.
-
-
-Contact me if you are interested!
-
-===
-
-#  Active matter
-
-#  Nonperturbative renormalization group
+##  Nonperturbative renormalization group

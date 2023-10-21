@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Theoretical Physics"
 collection: teaching
 type: "Lectures and tutorials"
 permalink: /teaching/teaching-2
-venue: "Bachelor, Sorbonne Université"
+venue: "Sorbonne Université"
 date: 2023-02-01
 location: "Paris, France"
 ---
