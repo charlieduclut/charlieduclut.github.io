@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorials"
 permalink: /teaching/ICFP_nonequilibrium_statmech
 venue: "ICFP master"
-date: 2022-2023
+date: 2022-09-01
 location: "Paris, France"
 ---
 
