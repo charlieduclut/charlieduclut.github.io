@@ -18,7 +18,7 @@ The interplay between cellular growth and cell-cell signaling is essential for t
 > - a numerical approach, based on simulations of the microscopic equations of motions or on solving the coarse-grained partial differential equations,
 > - a field-theoretical approach, that will allow characterizing the critical points and scaling properties of such colonies.
 >
-> Contact me if you are interested!#
+> Contact me if you are interested!
 
 ##  Active matter
 
