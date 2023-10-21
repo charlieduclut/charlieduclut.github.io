@@ -1,7 +1,7 @@
 ---
-title: "Tissue electrohydraulics"
-excerpt: "In addition to their mechanical properties, cell tissues have the ability to actively transport ions and fluids."
+title: "Tissue mechanics and dynamics"
+excerpt: "Cell tissues are complex visco-elastic materials that can actively change their properties."
 collection: research
 ---
 
- <br/><img src='/images/spheroid_with_drain.png'>
+ <br/><img src='/images/vertex_model.jpg'>
