@@ -26,11 +26,11 @@ Research experience
 
 * Nov. 2017 - Nov. 2021: Postdoc
   * [Max Planck Institute for the Physics of Complex Systems (MPI-PKS)](https://www.pks.mpg.de/), Dresden, Germany.
-  * Supervisor: [Frank Jülicher](https://www.pks.mpg.de/biological-physics/frank-juelicher/)
+  * Advisor: [Frank Jülicher](https://www.pks.mpg.de/biological-physics/frank-juelicher/)
 
 * Dec. 2021 - Aug. 2022: Postdoc
   * [Matière et Systèmes Complexes (MSC)](http://www.msc.univ-paris-diderot.fr/), Paris, France.
-  * Supervisor: [Julien Tailleur](http://www.msc.univ-paris-diderot.fr/~jtailleu/index.html)
+  * Advisor: [Julien Tailleur](http://www.msc.univ-paris-diderot.fr/~jtailleu/index.html)
   
 * Since Sep. 2022: Associate professor
   *  [Sorbonne Université](https://www.sorbonne-universite.fr/en) and [Physico-Chimie Curie laboratory](https://institut-curie.org/unit/umr168), Paris, France.
