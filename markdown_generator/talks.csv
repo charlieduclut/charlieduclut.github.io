@@ -1,4 +1,4 @@
-title;type;url_slug;venue;date;location;description
+﻿title;type;url_slug;venue;date;location;description
 Dynamical phase transition in assemblies of chemotactic cells;Invited talk;inv-talk-1;DPG Spring Meeting, Focus Session on Stochastic processes in biology;2019-04-04;Regensburg Universität,  Regensburg, Germany;
 Fluid pumping and flexoelectricity can drive lumen nucleation in cell spheroids;Invited talk;inv-talk-2;"Labex ""Who am I?"" 2022 annual meeting";2022-12-12;ENSA, Paris, France;
 Genuine (response-field) Langevin equations for reaction-diffusion processes ;Contributed talk;talk-1;Journées de Physique Statistique;2016-01-28;ESPCI, Paris, France;
@@ -11,6 +11,7 @@ Nonlinear rheology of cellular networks;Contributed talk;talk-7;Physical Biology
 Hydraulic and electric control of a cell spheroid;Contributed talk;talk-8;New frontiers in liquid matter;2022-07-07;Sorbonne Université, Paris, France;
 Stochastic dynamics of chemotactic colonies with logistic growth;Contributed talk;talk-9;Journées de Physique Statistique;2023-01-26;École Normale Supérieure de Paris, France;
 Stochastic dynamics of chemotactic colonies with logistic growth;Contributed talk;talk-10;Sitges conference on Statistical Mechanics;2023-05-29;Hotel Calipolis, Sitges, Spain;
+Hydraulic and electric properties of tissues;Contributed talk;talk-11;Physics meets Biology;2023-10-24;Rice Global Paris Center, Paris, France;
 Nonequilibrium critical phenomena: exact Langevin equations, erosion of tilted landscapes;Seminar;seminar-1;Max Planck Institute for the Physics of Complex Systems;2017-03-30;Dresden, Germany;
 Collective dynamics of chemotactic cells;Seminar;seminar-2;Laboratoire de Physique;2020-01-07;École Normale Supérieure de Lyon, Lyon, France;
 Collective dynamics of chemotactic cells;Seminar;seminar-3;Laboratoire Interdisciplinaire de Physique;2020-01-09;Université Grenoble-Alpes, Grenoble, France;
