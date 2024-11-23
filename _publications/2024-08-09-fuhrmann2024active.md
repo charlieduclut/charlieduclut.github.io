@@ -12,7 +12,7 @@ volume: '10'
 page: '32'
 paperurl: 'https://www.science.org/doi/10.1126/sciadv.adp0860'
 arxivid: '2023.12.23.573034'
-pubnumber: 20
+pubnumber: 21
 citation: '&quot;Active shape programming drives Drosophila wing disc eversion &quot;, J. F. Fuhrmann, A. Krishna, J. Paijmans, C. Duclut, G. Cwikla, S. Eaton, M. Popović, F. Jülicher, C. D. Modes, N. A. Dye, <i>Sci. Adv.</i> <b>10</b>, 32 (2024).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://www.science.org/doi/10.1126/sciadv.adp0860)
