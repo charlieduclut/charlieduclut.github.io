@@ -26,10 +26,9 @@
   {% endif %}
   {% if post.preprintvenue == 'bioRxiv' %}
     <a href="https://www.biorxiv.org/content/10.1101/{{ post.arxivid }}">bioRxiv:{{ post.arxivid }} <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i></a>
-    <a href="http://charlieduclut.github.io/files/{{ post.urlslug }}.pdf">[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i></a>
   {% endif %}
   {% if post.preprintvenue == 'arXiv' %}
     <a href="https://arxiv.org/abs/{{ post.arxivid }}">arXiv:{{ post.arxivid }} <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i></a>
-    <a href="http://charlieduclut.github.io/files/{{ post.urlslug }}.pdf">[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i></a>
   {% endif %}
+  <a href="http://charlieduclut.github.io/files/{{ post.urlslug }}.pdf">[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i></a>
 </li>
