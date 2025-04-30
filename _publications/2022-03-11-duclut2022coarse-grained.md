@@ -16,6 +16,7 @@ pubnumber: 9
 citation: '&quot;Coarse-grained curvature tensor on polygonal surfaces&quot;, C. Duclut, A. Amiri, J. Paijmans, and F. Jülicher, <i>SciPost Phys. Core</i> <b>5</b>, 11 (2022).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://scipost.org/10.21468/SciPostPhysCore.5.1.011)
+
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/duclut2022coarse-grained.pdf)
-<br/>
+
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2104.07988)

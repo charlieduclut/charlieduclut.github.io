@@ -16,6 +16,7 @@ pubnumber: 14
 citation: '&quot;Auxiliary fields approach to shift-symmetric theories: the φ^4 derivative theory and the crumpled-to-flat transition of membranes at two-loop order&quot;, L. Delzescaux, C. Duclut, D. Mouhanna, and M. Tissier, <i>Phys. Rev. D</i> <b>108</b>, L081702 (2023).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://link.aps.org/doi/10.1103/PhysRevD.108.L081702)
+
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/delzescaux2023auxiliary.pdf)
-<br/>
+
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2307.00600)

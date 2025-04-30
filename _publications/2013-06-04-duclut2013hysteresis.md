@@ -16,5 +16,5 @@ pubnumber: 1
 citation: '&quot;Hysteresis, phase transitions, and dangerous transients in electrical power distribution systems&quot;, C. Duclut, S. Backhaus, and M. Chertkov, <i>Phys. Rev. E</i> <b>87</b>, 62802 (2013).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://link.aps.org/doi/10.1103/PhysRevE.87.062802)
+
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/duclut2013hysteresis.pdf)
-<br/>

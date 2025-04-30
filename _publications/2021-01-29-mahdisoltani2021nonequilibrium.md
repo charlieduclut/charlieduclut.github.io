@@ -16,6 +16,7 @@ pubnumber: 6
 citation: '&quot;Nonequilibrium polarity-induced chemotaxis: Emergent Galilean symmetry and exact scaling exponents&quot;, S. Mahdisoltani, R. Ben Alì Zinati, C. Duclut, A. Gambassi, and R. Golestanian, <i>Phys. Rev. Research</i> <b>3</b>, 13100 (2021).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://link.aps.org/doi/10.1103/PhysRevResearch.3.013100)
+
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/mahdisoltani2021nonequilibrium.pdf)
-<br/>
+
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/1911.08115)

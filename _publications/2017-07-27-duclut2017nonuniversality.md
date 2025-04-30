@@ -16,6 +16,7 @@ pubnumber: 4
 citation: '&quot;Nonuniversality in the erosion of tilted landscapes&quot;, C. Duclut, and B. Delamotte, <i>Phys. Rev. E</i> <b>96</b>, 12149 (2017).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](http://link.aps.org/doi/10.1103/PhysRevE.96.012149)
+
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/duclut2017nonuniversality.pdf)
-<br/>
+
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/1705.05294)
