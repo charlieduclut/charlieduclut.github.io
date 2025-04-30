@@ -13,7 +13,7 @@
 {% endif %}
 
 
-
+{% comment %}
 <li>
   <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>,<br/>
   {{ post.authors }},<br/>
@@ -32,8 +32,9 @@
   {% endif %}
   <a href="http://charlieduclut.github.io/files/{{ post.urlslug }}.pdf">[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i></a>
 </li>
+{% endcomment %}
 
-{% comment %}
+
 <li>
   <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>,<br/>
   {{ post.authors }},<br/>
@@ -58,4 +59,3 @@
   {% endif %}
   <a href="http://charlieduclut.github.io/files/{{ post.urlslug }}.pdf">[article pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i></a>
 </li>
-{% endcomment %}
