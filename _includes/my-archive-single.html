@@ -38,7 +38,7 @@
 <li>
   <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>,<br/>
   {{ post.authors }},<br/>
-  {% if post.paperurl is defined %}
+  {% if post.paperurl != '/' %}
     {% if post.venue != 'preprint' %}
       <a href="{{ post.paperurl }}">
       <i> {{ post.venue }}</i>
