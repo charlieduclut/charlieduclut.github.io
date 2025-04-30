@@ -33,7 +33,8 @@
   <a href="http://charlieduclut.github.io/files/{{ post.urlslug }}.pdf">[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i></a>
 </li>
 
-<!-- <li>
+{% comment %}
+<li>
   <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>,<br/>
   {{ post.authors }},<br/>
   {% if post.paperurl is defined %}
@@ -56,4 +57,5 @@
     <a href="https://arxiv.org/abs/{{ post.arxivid }}">arXiv:{{ post.arxivid }} <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i></a><br/>
   {% endif %}
   <a href="http://charlieduclut.github.io/files/{{ post.urlslug }}.pdf">[article pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i></a>
-</li> -->
+</li>
+{% end comment %}
