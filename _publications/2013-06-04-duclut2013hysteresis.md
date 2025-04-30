@@ -7,7 +7,7 @@ excerpt: 'The majority of dynamical studies in power systems focus on the high-v
 date: 2013-06-04
 authors: 'C. Duclut, S. Backhaus, and M. Chertkov'
 venue: 'Phys. Rev. E'
-preprintvenue: 'arXiv'
+preprintvenue: 'none'
 volume: '87'
 page: '62802'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevE.87.062802'
@@ -18,4 +18,3 @@ citation: '&quot;Hysteresis, phase transitions, and dangerous transients in elec
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://link.aps.org/doi/10.1103/PhysRevE.87.062802)
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/duclut2013hysteresis.pdf)
 <br/>
-[arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/1212.0252)

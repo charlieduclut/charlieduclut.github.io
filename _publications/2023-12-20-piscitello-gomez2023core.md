@@ -18,4 +18,4 @@ citation: '&quot;Core PCP mutations affect short time mechanical properties but 
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://doi.org/10.7554/eLife.85581)
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/piscitello-gomez2023core.pdf)
 <br/>
-[arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2022.12.09.519799)
+[bioRxiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://www.biorxiv.org/content/10.1101/2022.12.09.519799)

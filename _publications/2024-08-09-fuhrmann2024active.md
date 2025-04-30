@@ -18,4 +18,4 @@ citation: '&quot;Active shape programming drives Drosophila wing disc eversion &
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://www.science.org/doi/10.1126/sciadv.adp0860)
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/fuhrmann2024active.pdf)
 <br/>
-[arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2023.12.23.573034)
+[bioRxiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://www.biorxiv.org/content/10.1101/2023.12.23.573034)
