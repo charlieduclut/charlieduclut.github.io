@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor and Master degrees at the [École Normale Supérieure (ENS)](https://www.ens.psl.eu/), Paris, France. Master program [Macroscopic Physics and Complexity](https://www.phys.ens.fr/spip.php?rubrique284&lang=en).
+* Bachelor and Master degrees at the [École Normale Supérieure (ENS)](https://www.ens.psl.eu/), Paris, France. Master program [Macroscopic Physics and Complexity](https://www.phys.ens.fr/fr/formations/m2-icfp).
 * Ph.D. in theoretical physics supervised by [Bertrand Delamotte](https://www.lptmc.jussieu.fr/users/delamotte), Laboratoire de Physique Théorique de la Matière Condensée (LPTMC), [Université Paris VI (UPMC)](https://www.sorbonne-universite.fr/), Paris, France.
 
 Research experience

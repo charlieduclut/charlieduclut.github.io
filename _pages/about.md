@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at [Sorbonne Université](https://www.sorbonne-universite.fr/en), and conduct my research at [Physico-Chimie Curie](https://institut-curie.org/unit/umr168).
+I am an associate professor at [Sorbonne Université](https://www.sorbonne-universite.fr/en), and conduct my research at [Physics of Cells and Cancer (PCC)](https://institut-curie.org/unit/umr168).
 
 As a physicist, I use theoretical approaches and tools from **statistical physics**, **non-equilibrium thermodynamics** and **active matter** to understand the collective behavior of cells and the dynamic properties of tissues.
 
