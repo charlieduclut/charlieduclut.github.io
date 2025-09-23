@@ -12,10 +12,10 @@ actively transporting fluids and of creating electric currents. Tissues hydrauli
 Theoretical modelling of cell tissues however often focuses on their active mechanical
 properties, while their bioelectric and hydraulic abilities have remained largely undiscussed. I am therefore interested in constructing and exploring both cell-based and continuum models that bring together tissue mechanical, electrical and hydraulic properties.
 
-> For this project, **I am looking for motivated students!**
+<!-- > For this project, **I am looking for motivated students!**
 >
 > Several directions could be considered:
 > - construct cell-based numerical models, inspired by the vertex model, that include explicitly fluid transport,
 > - develop coarse-grained, continuum models of tissues that include electrohydraulic properties.
 >
-> Contact me if you are interested!
+> Contact me if you are interested! -->
