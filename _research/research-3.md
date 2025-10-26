@@ -1,8 +1,26 @@
 ---
 title: "Nonequilibrium statistical physics"
-excerpt: "Emergent properties of biological systems can be understood using tools from statistical physics, such as the renormalisation group."
+excerpt: "Emergent properties of biological systems can be understood using tools from statistical physics."
 collection: research
 ---
+
+##  Interplay between motility and proliferation
+
+<figure>
+  <video controls >
+    <source src="/images/movies/mp4/pulled_pattern_forming_front.mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <input type="checkbox" id="show-legend" class="legend-toggle">
+
+  <label for="show-legend" class="legend-label">Show legend</label>
+
+  <div class="legend-box">
+    <b> Propagation of a pattern-forming front. </b>
+    <br> Simulation showing the expansion of a proliferating colony. In the colony bulk, the cell density is sufficiently large to induce a local slowing down of the cells. Slow cells accumulate and form denser regions, separated by low density regions where cells move faster. The expanding front thus triggers a motility-induced pattern formation. 
+  </div>
+</figure>
 
 ##  Chemotaxis and proliferation
 
@@ -20,6 +38,4 @@ The interplay between cellular growth and cell-cell signaling is essential for t
 >
 > Contact me if you are interested! -->
 
-##  Active matter
-
-##  Nonperturbative renormalization group
+<!-- ##  Nonperturbative renormalization group -->
