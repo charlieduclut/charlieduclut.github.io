@@ -19,12 +19,63 @@ collection: research
 }
 </style>
 
-<div class="responsive-video">
+
+ <style>
+  .legend-toggle {
+    display: none;               /* hide the native checkbox */
+  }
+  .legend-label {
+    cursor: pointer;
+    background: #333;
+    color: #fff;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    margin-top: 0.4rem;
+    display: inline-block;
+  }
+  .legend-box {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background: rgba(0,0,0,0.75);
+    color: #fff;
+    padding: 0.5rem;
+    margin-top: 0.4rem;
+    font-size: 0.9rem;
+  }
+  .legend-toggle:checked + .legend-label + .legend-box {
+    max-height: 10rem;   /* enough to show the text */
+  }
+</style>
+
+
+<!-- <div class="responsive-video">
   <video controls>
     <source src="/images/movies/mp4/VM_pure_shear.mp4" >
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
+
+
+<figure style="max-width: 640px;">
+  <video controls width="100%">
+    <source src="/images/movies/mp4/VM_pure_shear.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- Hidden checkbox -->
+  <input type="checkbox" id="show-legend" class="legend-toggle">
+
+  <!-- Label that acts as the button -->
+  <label for="show-legend" class="legend-label">Show legend</label>
+
+  <!-- The legend itself -->
+  <div class="legend-box">
+    <strong>Legend:</strong> The red line marks the shoreline change over the past decade.
+  </div>
+</figure>
+
 
 <!-- 
 <video src="/images/movies/mp4/VM_pure_shear.mp4" controls>
@@ -41,4 +92,5 @@ I am interested in studying the active visco-elastic properties of tissues using
     \textbf{(b)} Shear decomposition averaged over 100 realizations of the vertex model for $T=6$ and $\widetilde{V}_{xx}^0=0.2$. The standard error of the mean is smaller than the thickness of the curves. -->
 
  <br/><img src='/images/vertex_model.jpg'>
+
  
