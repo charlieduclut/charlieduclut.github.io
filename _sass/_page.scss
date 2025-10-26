@@ -2,6 +2,7 @@
    SINGLE PAGE/POST
 
    CHARLIE: modified #main padding; previous:
+   CHARLIE: added video and figure style (lines 408->end)
    padding-left: 1em;
    padding-right: 1em;
    ========================================================================== */
@@ -402,4 +403,58 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+// Charlie: Added video and legend styles
+
+figure {
+  max-width: 640px;            /* optional – limits width */
+  margin: 0 auto;              /* centre on the page */
+}
+video {
+  width: 100%;
+  display: block;
+}
+
+
+.legend-toggle {
+  /* hide the native checkbox but keep it focusable for accessibility */
+  position: absolute;
+  left: -9999px;
+}
+
+
+.legend-label {
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.35rem 0.7rem;
+  background:#333;
+  color:#fff;
+  border-radius:4px;
+  font-size:0.9rem;
+  user-select:none;
+}
+
+
+.legend-box {
+  max-height: 0;                /* collapse vertically */
+  overflow: hidden;             /* hide anything that exceeds max‑height */
+  opacity: 0;                  /* make it invisible */
+  transition:
+    max-height 0.35s ease-out,
+    opacity   0.35s ease-out;
+  background:rgba(0,0,0,0.75);
+  color:#fff;
+  padding:0 0.8rem;            /* horizontal padding stays, vertical padding is added later */
+  margin-top:0.4rem;
+  font-size:0.9rem;
+  line-height:1.4;
+}
+
+.legend-toggle:checked + .legend-label + .legend-box {
+  max-height: 10rem;           /* big enough to contain the text */
+  opacity: 1;                  /* fade‑in */
+  padding-top:0.6rem;          /* add vertical padding only when opened */
+  padding-bottom:0.6rem;
 }
