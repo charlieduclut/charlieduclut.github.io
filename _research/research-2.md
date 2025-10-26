@@ -3,7 +3,7 @@ title: "Tissue mechanics and dynamics"
 excerpt: "Cell tissues are complex visco-elastic materials that can actively change their properties."
 collection: research
 ---
-
+<!-- 
 <style>
 .responsive-video {
   position: relative;
@@ -17,10 +17,10 @@ collection: research
   width: 100%;
   height: 100%;
 }
-</style>
+</style> -->
 
 
- <style>
+ <!-- <style>
   .legend-toggle {
     display: none;               /* hide the native checkbox */
   }
@@ -47,7 +47,7 @@ collection: research
   .legend-toggle:checked + .legend-label + .legend-box {
     max-height: 10rem;   /* enough to show the text */
   }
-</style>
+</style> -->
 
 
 <!-- <div class="responsive-video">
@@ -58,23 +58,6 @@ collection: research
 </div> -->
 
 
-<figure style="max-width: 640px;">
-  <video controls width="100%">
-    <source src="/images/movies/mp4/VM_pure_shear.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <!-- Hidden checkbox -->
-  <input type="checkbox" id="show-legend" class="legend-toggle">
-
-  <!-- Label that acts as the button -->
-  <label for="show-legend" class="legend-label">Show legend</label>
-
-  <!-- The legend itself -->
-  <div class="legend-box">
-    <strong>Legend:</strong> The red line marks the shoreline change over the past decade.
-  </div>
-</figure>
 
 
 <!-- 
@@ -91,6 +74,75 @@ I am interested in studying the active visco-elastic properties of tissues using
 <!-- Dynamics of an isotropic cellular network under an imposed pure shear deformation. Between $t=0$ to $t=T$, a pure shear is applied to the network with a rate $\widetilde{V}_{xx}^0$, after which the box is kept fixed. The cumulative total tissue shear (blue curve) is decomposed using Eq.~\eqref{eq_shear_decomp} in contributions to the shear due to changes in cell shape (green), due to T1 transitions (red) and due to correlation effects (purple). \textbf{(a)} Example of a single simulation of the vertex model with $T=5$ and $\widetilde{V}_{xx}^0=0.15$. Snapshots show the state of the system at different times during the simulation. Cells are color-coded according to their elongation.
     \textbf{(b)} Shear decomposition averaged over 100 realizations of the vertex model for $T=6$ and $\widetilde{V}_{xx}^0=0.2$. The standard error of the mean is smaller than the thickness of the curves. -->
 
- <br/><img src='/images/vertex_model.jpg'>
+ <!-- <br/><img src='/images/vertex_model.jpg'> -->
 
- 
+ <style>
+  figure {
+    max-width: 640px;            /* optional – limits width */
+    margin: 0 auto;              /* centre on the page */
+  }
+  video {
+    width: 100%;
+    display: block;
+  }
+
+
+  .legend-toggle {
+    /* hide the native checkbox but keep it focusable for accessibility */
+    position: absolute;
+    left: -9999px;
+  }
+
+
+  .legend-label {
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 0.6rem;
+    padding: 0.35rem 0.7rem;
+    background:#333;
+    color:#fff;
+    border-radius:4px;
+    font-size:0.9rem;
+    user-select:none;
+  }
+
+
+  .legend-box {
+    max-height: 0;                /* collapse vertically */
+    overflow: hidden;             /* hide anything that exceeds max‑height */
+    opacity: 0;                  /* make it invisible */
+    transition:
+      max-height 0.35s ease-out,
+      opacity   0.35s ease-out;
+    background:rgba(0,0,0,0.75);
+    color:#fff;
+    padding:0 0.8rem;            /* horizontal padding stays, vertical padding is added later */
+    margin-top:0.4rem;
+    font-size:0.9rem;
+    line-height:1.4;
+  }
+
+  .legend-toggle:checked + .legend-label + .legend-box {
+    max-height: 10rem;           /* big enough to contain the text */
+    opacity: 1;                  /* fade‑in */
+    padding-top:0.6rem;          /* add vertical padding only when opened */
+    padding-bottom:0.6rem;
+  }
+</style>
+
+
+<figure>
+  <video controls >
+    <source src="/images/movies/mp4/VM_pure_shear.mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <input type="checkbox" id="show-legend" class="legend-toggle">
+
+  <label for="show-legend" class="legend-label">Show legend</label>
+
+  <div class="legend-box">
+    <strong>Legend:</strong> The red line marks the shoreline change over the past decade.
+    <br>Blue dots indicate sampling stations used in the 2025 survey.
+  </div>
+</figure>
