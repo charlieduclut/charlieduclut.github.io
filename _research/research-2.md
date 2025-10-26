@@ -20,11 +20,11 @@ collection: research
   </div>
 </figure>
 
-<div>
+
 During morphogenesis, cells divide, die, rearrange, and flow to create complex structures and shape organs. On short time scales, cells maintain tissue mechanical integrity and form a solid-like structure, while at longer time scales, tissues can deform and relax internal stresses, thus behaving as viscous fluids.
 
-I am interested in studying the active visco-elastic properties of tissues using both cell-based simulations and coarse-grained descriptions. The video above shows an example of 
+I am interested in studying the active visco-elastic properties of tissues using both cell-based simulations and coarse-grained descriptions. The video above displays an example of a vertex model simulation under an imposed pure shear deformation.
 
-[Nonlinear rheology of cellular networks](https://charlieduclut.github.io/publication/2021-09-27-duclut2021nonlinear)
-
-</div>
+Here are some of my work regarding the active mechanical and rheological properties of tissues:
+- [Nonlinear rheology of cellular networks](https://charlieduclut.github.io/publication/2021-09-27-duclut2021nonlinear)
+- 
