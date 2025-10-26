@@ -20,7 +20,7 @@ collection: research
   </div>
 </figure>
 
---
+---
 
 During morphogenesis, cells divide, die, rearrange, and flow to create complex structures and shape organs. On short time scales, cells maintain tissue mechanical integrity and form a solid-like structure, while at longer time scales, tissues can deform and relax internal stresses, thus behaving as viscous fluids.
 
