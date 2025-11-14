@@ -16,7 +16,6 @@ pubnumber: 20
 citation: '&quot;Fluctuation-Induced First Order Transition to Collective Motion&quot;, D. Martin, G. Spera, H. Chaté, C. Duclut, C. Nardini, J. Tailleur, F. van Wijland  , <i>J. Stat. Mech.</i> <b>2024</b>, 084003 (2024).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://iopscience.iop.org/article/10.1088/1742-5468/ad6428 )
-
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/martin2024fluctuationinduced.pdf)
-
+<br/>
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2402.05078)

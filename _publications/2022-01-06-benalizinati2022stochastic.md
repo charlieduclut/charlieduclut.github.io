@@ -16,7 +16,6 @@ pubnumber: 11
 citation: '&quot;Stochastic dynamics of chemotactic colonies with logistic growth&quot;, R. Ben Alì Zinati, C. Duclut, S. Mahdisoltani, A. Gambassi, and R. Golestanian, <i>EPL</i> <b>136</b>, 50003 (2022).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://iopscience.iop.org/article/10.1209/0295-5075/ac48c9)
-
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/benalizinati2022stochastic.pdf)
-
+<br/>
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2111.08508)

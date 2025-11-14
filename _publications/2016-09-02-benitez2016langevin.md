@@ -16,7 +16,6 @@ pubnumber: 2
 citation: '&quot;Langevin Equations for Reaction-Diffusion Processes&quot;, F. Benitez, C. Duclut, H. Chaté, B. Delamotte, I. Dornic, and M. A. Muñoz, <i>Phys. Rev. Lett.</i> <b>117</b>, 100601 (2016).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://link.aps.org/doi/10.1103/PhysRevLett.117.100601)
-
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/benitez2016langevin.pdf)
-
+<br/>
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/1604.06740)

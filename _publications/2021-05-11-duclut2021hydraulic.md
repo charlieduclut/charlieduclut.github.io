@@ -16,7 +16,6 @@ pubnumber: 7
 citation: '&quot;Hydraulic and electric control of cell spheroids&quot;, C. Duclut, J. Prost, and F. Jülicher, <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>118</b>, e2021972118 (2021).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](http://www.pnas.org/lookup/doi/10.1073/pnas.2021972118)
-
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/duclut2021hydraulic.pdf)
-
+<br/>
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2011.03735)

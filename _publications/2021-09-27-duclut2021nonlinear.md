@@ -16,7 +16,6 @@ pubnumber: 8
 citation: '&quot;Nonlinear rheology of cellular networks&quot;, C. Duclut, J. Paijmans, M. M. Inamdar, C. D. Modes, and F. Jülicher, <i>Cells &amp; Development</i> <b>168</b>, 203746 (2021).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://doi.org/10.1016/j.cdev.2021.203746)
-
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/duclut2021nonlinear.pdf)
-
+<br/>
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2103.16462)

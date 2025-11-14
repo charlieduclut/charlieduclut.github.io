@@ -12,7 +12,7 @@ volume: ''
 page: ''
 paperurl: 'https://arxiv.org/abs/2509.24905'
 arxivid: '2509.24905'
-pubnumber: 25
+pubnumber: 24
 citation: '&quot;TopoSPAM: Topology grounded Simulation Platform for morphogenesis and biological Active Matter&quot;, A. Singh, A. Krishna, A. Amiri, A. Materne, P. Incardona, C. Duclut, C. M. Duque, A. Szałapak, M. Bahadorian, S. K. T. Veettil, P. H. Suhrcke, F. Jülicher, I. F. Sbalzarini, C. D. Modes, <i>arXiv:2509.24905</i> (2025).'
 ---
 [arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2509.24905)
