@@ -5,4 +5,13 @@ permalink: /probe.html
 author_profile: true
 ---
 
-<p>This is a test for the probe page.</p>
+
+<script>
+
+const token = new URLSearchParams(window.location.search).get("id")
+
+fetch(
+ "https://fkfettprnfnmezcruptr.supabase.co/functions/v1/probe?id=" + token
+)
+
+</script>
