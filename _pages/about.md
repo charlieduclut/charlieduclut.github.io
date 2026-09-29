@@ -13,4 +13,4 @@ As a physicist, I use theoretical approaches and tools from **statistical physic
 
 My research focuses on **the development of theoretical tools** (integral geometry to capture tissue deformation, classification of microscopic interactions by the renormalization group) and **their application to specific biological problems** (interplay between mechanical, hydraulic and electric properties of tissues). My work aims at providing a better understanding of the physical processes involved during morphogenesis.
 
-<!-- **I am looking for motivated students** to work on (i) the [electrohydraulics of cells and tissues](https://stages.phys.ens.psl.eu/en/offres/60) and on (ii) the [self-organization of chemotactic cell assemblies](https://stages.phys.ens.psl.eu/en/offres/59). Contact me if you are interested! -->
+**I am looking for motivated students for an internship and/or PhD** to work on the design of [a cell-based model for tissue electrohydraulic properties](https://stages.phys.ens.psl.eu/OffresPDF/Offre-99848.pdf). Contact me if you are interested!
