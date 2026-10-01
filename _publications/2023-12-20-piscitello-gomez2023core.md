@@ -11,11 +11,11 @@ preprintvenue: 'bioRxiv'
 volume: '12'
 page: 'e85581'
 paperurl: 'https://doi.org/10.7554/eLife.85581'
-arxivid: '2022.12.09.519799'
+arxivid: '10.1101/2022.12.09.519799'
 pubnumber: 16
 citation: '&quot;Core PCP mutations affect short time mechanical properties but not tissue morphogenesis in the <i>Drosophila</i> pupal wing&quot;, R. Piscitello-Gómez, F. S. Gruber, A. Krishna, C. Duclut, C. D. Modes, M. Popović, F. Jülicher, N. A. Dye, S. Eaton, <i>eLife</i> <b>12</b>, e85581 (2023).'
 ---
 [Published version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://doi.org/10.7554/eLife.85581)
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/piscitello-gomez2023core.pdf)
 <br/>
-[arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/2022.12.09.519799)
+[arXiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://arxiv.org/abs/10.1101/2022.12.09.519799)
