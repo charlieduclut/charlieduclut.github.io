@@ -15,6 +15,6 @@ arxivid: '10.64898/2026.09.24.754221'
 pubnumber: 26
 citation: '&quot;Self-centering steady-state flows emerge in confined actomyosin networks&quot;, J. Zhao, C. Duclut, A. Singh, R. Golipour, A. Pham, B. Golschaei, C. Guan, M. Li, U. Schulz, R. Oldenbourg, I. F. Sbalzarini, S. W. Grill, J. L. Harden, F. Jülicher, C. F. Schmidt, <i>bioRxiv:10.64898/2026.09.24.754221</i> (2026).'
 ---
-[bioRxiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://www.biorxiv.org/content/10.1101/10.64898/2026.09.24.754221)
+[bioRxiv version <i class="fa fa-external-link-alt fa-xs" aria-hidden="true"></i>](https://www.biorxiv.org/content/10.64898/2026.09.24.754221)
 [[pdf] <i class="fa fa-download fa-xs" aria-hidden="true"></i>](http://charlieduclut.github.io/files/zhao2026selfcentering.pdf)
 <br/>
