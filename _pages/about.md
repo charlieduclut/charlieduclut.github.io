@@ -15,4 +15,6 @@ My research focuses on **the development of theoretical tools** (integral geomet
 
 > **I am looking for motivated students for an internship and/or PhD** to work on the design of [a cell-based model for tissue electrohydraulic properties](https://stages.phys.ens.psl.eu/OffresPDF/Offre-99848.pdf){:target="_blank"} (click on the link for more information about the offer).  Contact me if you are interested!
 
-> **I am also looking for a postdoctoral researcher** to work on the HFSP-funded project [Electro-chemical Actuation of Tissue Morphogenesis](/files/HFSP_postdoc_advertisement.pdf){:target="_blank"} (click on the link for more information about the offer). Contact me if you are interested!
+> Note that the application for the HFSP postdoctoral position is now closed. 
+
+<!-- > **I am also looking for a postdoctoral researcher** to work on the HFSP-funded project [Electro-chemical Actuation of Tissue Morphogenesis](/files/HFSP_postdoc_advertisement.pdf){:target="_blank"} (click on the link for more information about the offer). Contact me if you are interested! -->
